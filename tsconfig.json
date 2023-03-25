@@ -4,6 +4,7 @@
     "jsx": "react-jsx",
     "jsxImportSource": "react",
     "baseUrl": "./src",
-    "paths": { "@/*": ["*"] }
+    "paths": { "@/*": ["*"] },
+    "importsNotUsedAsValues": "preserve"
   }
 }

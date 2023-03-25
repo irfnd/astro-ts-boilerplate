@@ -1,7 +1,7 @@
 {
   "name": "astro-ts-boilerplate",
   "version": "0.0.1",
-  "description": "A boilerplate/starter project for quickly building web using Astro with TypeScript",
+  "description": "A boilerplate/starter project for quickly building web using Astro with React and TypeScript",
   "type": "module",
   "license": "MIT",
   "scripts": {
