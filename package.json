@@ -1,7 +1,9 @@
 {
   "name": "astro-ts-boilerplate",
-  "type": "module",
   "version": "0.0.1",
+  "description": "A boilerplate/starter project for quickly building web using Astro with TypeScript",
+  "type": "module",
+  "license": "MIT",
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -11,5 +13,13 @@
   },
   "dependencies": {
     "astro": "^2.1.7"
+  },
+  "devDependencies": {
+    "@typescript-eslint/parser": "^5.56.0",
+    "eslint": "^8.36.0",
+    "eslint-plugin-astro": "^0.26.1",
+    "prettier": "^2.8.7",
+    "prettier-config-standard": "^5.0.0",
+    "prettier-plugin-astro": "^0.8.0"
   }
 }
