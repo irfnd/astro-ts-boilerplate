@@ -5,7 +5,7 @@ A boilerplate/starter project for quickly building web using Astro with React an
 ## Features
 
 - **Absolute Path**: using tsconfig.json.
-- **Git hooks**: using [lint-staged](https://github.com/okonet/lint-staged). [see more](https://nextjs.org/docs/basic-features/eslint)
+- **Git hooks**: using [lint-staged](https://github.com/okonet/lint-staged).
 - **Linting**: using [eslint](https://eslint.org/) and [prettier](https://prettier.io/).
 
 ## Get Started
